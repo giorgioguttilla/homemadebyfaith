@@ -1,0 +1,9 @@
+$theme-colors: (
+  "success": #000000,
+  "danger": #ff4136
+);
+
+$success: #000000;
+$green: #888888;
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
