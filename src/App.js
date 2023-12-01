@@ -8,7 +8,7 @@ import Header from './common/Header';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './pages/About';
-import Contact from './pages/Contact';//
+import Contact from './pages/Contact';
 
 function App() {
   return (
